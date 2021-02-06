@@ -1,0 +1,9 @@
+1|Engleski|A1|1|8000
+2|Engleski|A2|1|10000
+3|Engleski|B1|1|15000
+4|Nemacki|A1|2|8000
+5|Nemacki|A2|2|10000
+6|Nemacki|B1|2|15000
+7|Francuski|A1|3|8000
+8|Francuski|A2|3|10000
+9|Francuski|B1|3|15000
